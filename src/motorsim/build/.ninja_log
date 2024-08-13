@@ -1,0 +1,7 @@
+# ninja log v5
+1	6	0	CMakeFiles/ament_cmake_python_copy_motorsim	6aad30d812f96788
+1	6	0	/home/tanakon/Desktop/fra501_fun/src/motorsim/build/CMakeFiles/ament_cmake_python_copy_motorsim	6aad30d812f96788
+1	213	1723374076118092713	CMakeFiles/cpp_node_test.dir/src/cpp_node.cpp.o	bc73d07d70fa2dec
+6	269	0	CMakeFiles/ament_cmake_python_build_motorsim_egg	3d934014408f74ae
+6	269	0	/home/tanakon/Desktop/fra501_fun/src/motorsim/build/CMakeFiles/ament_cmake_python_build_motorsim_egg	3d934014408f74ae
+214	273	1723374076178092315	cpp_node_test	9a91ff9d523e7a03
