@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libmotorsim_interfaces__rosidl_generator_c.so -o libmotorsim_interfaces__rosidl_generator_c.so CMakeFiles/motorsim_interfaces__rosidl_generator_c.dir/rosidl_generator_c/motorsim_interfaces/srv/detail/motor_spawn__functions.c.o  -Wl,-rpath,/opt/ros/humble/lib: /opt/ros/humble/lib/librosidl_runtime_c.so /opt/ros/humble/lib/librcutils.so -ldl 

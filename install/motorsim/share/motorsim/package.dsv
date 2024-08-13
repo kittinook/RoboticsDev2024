@@ -1,0 +1,8 @@
+source;share/motorsim/hook/cmake_prefix_path.ps1
+source;share/motorsim/hook/cmake_prefix_path.dsv
+source;share/motorsim/hook/cmake_prefix_path.sh
+source;share/motorsim/local_setup.bash
+source;share/motorsim/local_setup.dsv
+source;share/motorsim/local_setup.ps1
+source;share/motorsim/local_setup.sh
+source;share/motorsim/local_setup.zsh

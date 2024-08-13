@@ -1,0 +1,4 @@
+source;share/motorsim/local_setup.bash
+source;share/motorsim/local_setup.dsv
+source;share/motorsim/local_setup.sh
+source;share/motorsim/local_setup.zsh

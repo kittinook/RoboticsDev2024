@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from motorsim_interfaces/srv/MotorSpawn.srv
+// generated code does not contain a copyright notice
+
+
+module motorsim_interfaces {
+  module srv {
+    struct MotorSpawn_Request {
+      string name;
+    };
+    struct MotorSpawn_Response {
+      boolean success;
+
+      string message;
+    };
+  };
+};

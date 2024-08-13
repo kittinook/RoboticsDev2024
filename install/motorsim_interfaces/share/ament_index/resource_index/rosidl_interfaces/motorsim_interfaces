@@ -1,0 +1,4 @@
+srv/MotorSpawn.idl
+srv/MotorSpawn.srv
+srv/MotorSpawn_Request.msg
+srv/MotorSpawn_Response.msg
