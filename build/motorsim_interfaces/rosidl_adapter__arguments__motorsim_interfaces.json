@@ -1,6 +1,0 @@
-{
-  "package_name": "motorsim_interfaces",
-  "non_idl_tuples": [
-    "/home/tanakon/RoboticsDev2024/src/motorsim_interfaces:srv/MotorSpawn.srv"
-  ]
-}
