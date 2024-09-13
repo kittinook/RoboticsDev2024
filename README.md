@@ -1,5 +1,6 @@
 # ข้อสอบ/การบ้าน: เต่าหรรษา+
-
+ให้นักศึกษาลงชื่อเข้าสอบใน Google Sheet ดังต่อไปนี้
+https://docs.google.com/spreadsheets/d/1De-UpYV1-ms-l0OzQEclFWL3SVxSH7_fYOSlA9KhXpY/edit?gid=0#gid=0
 
 ## Objective
 - เพื่อศึกษาการทำงาน ROS2 ในหัวข้อ Topics, Service, Parameter, Namespace, Launch File
