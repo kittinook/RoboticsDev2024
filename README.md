@@ -1,5 +1,5 @@
 # ข้อสอบ/การบ้าน: เต่าหรรษา+
-ให้นักศึกษาลงชื่อเข้าสอบใน Google Sheet ดังต่อไปนี้
+ให้นักศึกษาลงชื่อกลุ่มของตนเองใน Google Sheet ดังต่อไปนี้
 
 https://docs.google.com/spreadsheets/d/1De-UpYV1-ms-l0OzQEclFWL3SVxSH7_fYOSlA9KhXpY/edit?gid=0#gid=0
 
